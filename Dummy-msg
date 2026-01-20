@@ -1,1 +1,1 @@
-jupyter nbconvert --to notebook --execute --ExecutePreprocessor.timeout=28800 --inplace Test/DRL_Assignment_optimised_1.ipynb
+jupyter nbconvert --to notebook --execute --ExecutePreprocessor.timeout=28800 --inplace DRL_Assignment_optimised_1.ipynb
