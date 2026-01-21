@@ -10,6 +10,7 @@ Welcome to an enhanced collection of Jupyter notebooks exploring Convolutional N
 - **🎬 Interactive convolution animation** showing kernel sliding
 - **📊 Enhanced training dashboard** with detailed analytics
 - **💡 Comprehensive explanations** of CNN mathematics and intuition
+- **📁 Submission file generation** for competition-ready predictions
 
 ### 🕸️ Graph Neural Networks
 
